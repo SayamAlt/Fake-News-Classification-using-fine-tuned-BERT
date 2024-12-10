@@ -38,6 +38,7 @@ The dataset comprises 40,587 records with the following fields:
   "text": "RAMALLAH, West Bank (Reuters) - Palestinians switched off Christmas lights at Jesus' traditional birthplace in Bethlehem on Wednesday night in protest at U.S. President Donald Trump's decision to recognize Jerusalem as Israel's capital...",
   "label": "1"
 }
+```
 
 ---
 
@@ -58,9 +59,13 @@ This dataset is constructed using Python and the Pandas library as the primary d
 Version: 1.0.0
 Focus: Supervised learning with modern Transformers-based models in NLP.
 
+---
+
 ## Source Data
 
 The dataset is compiled from multiple fake news datasets available on Kaggle, ensuring that it is both extensive and high-quality for machine learning tasks.
+
+---
 
 ## Considerations for Using the Data
 
@@ -70,22 +75,32 @@ Training Phase: To train NLP models effectively.
 Validation Phase: To validate model performance and ensure there is no overfitting.
 Testing Phase: To evaluate model accuracy and identify fine-tuning needs.
 
+---
+
 ## Repository
 
 All processes and code used to create this dataset are available in the repository:
 Fake News Detection Repository
 
+---
+
 ## License
 
 Please check the repository for licensing information.
+
+---
 
 ## Contributing
 
 Contributions, issues, and feature requests are welcome! Feel free to open a pull request or raise an issue for discussion.
 
+---
+
 ## Acknowledgments
 
 Special thanks to Kaggle for providing access to the source datasets.
+
+---
 
 ## Contact
 
